@@ -30,7 +30,14 @@
 <h2>Installation</h2>
 <ol>
   <li><b>Clone the Repository:</b>Open the app on your Android device.</li>
-  <li>Enter loan details including the loan amount, interest rate, and term.</li>
+  <li><b>Open in Android Studio:</b>
+      <ul>
+        <li>Launch Android Studio.</li>
+        <li>Select "Open an existing Android Studio project."</li>
+      <li>Navigate to the cloned repository and select it.
+</li>
+      </ul>
+  </li>
   <li>Click "Calculate" to see the monthly payment, total payments, and a breakdown of each payment.</li>
   
 </ol>
