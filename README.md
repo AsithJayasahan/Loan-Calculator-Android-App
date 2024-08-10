@@ -30,7 +30,9 @@
 <h2>Installation</h2>
 
 <ol>
-  <li><b>Clone the Repository:  </b> git clone https://github.com/AsithJayasahan/LoanCalculator.git</li>
+  <li>Open the "Git Blash".
+  <li>change the directory you want to save.</li>
+  <li><b>Clone the Repository:  </b> git clone "https://github.com/AsithJayasahan/Loan-Calculator-Android-App.git"</li>
   <li><b>Open in Android Studio:</b>
       <ul>
         <li>Launch Android Studio.</li>
