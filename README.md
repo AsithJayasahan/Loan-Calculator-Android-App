@@ -23,7 +23,7 @@
 <ul>
   <li><b>Android Studio:</b> Version 4.0 or higher.</li>
   <li><b>Java JDK:</b> Version 8 or higher..</li>
-  <li><b>Minimum SDK: </b> API 24("Nougat" Android 7.0)</li>
+  <li><b>Minimum SDK: </b> API 24("Nougat" Android 7.0) or more...</li>
 </ul>
 
 
