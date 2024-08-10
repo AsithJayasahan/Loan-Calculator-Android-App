@@ -319,6 +319,7 @@
         android:layout_marginBottom="7dp"
         android:text="LKR."
         android:textColor="#67BFFF"
+        android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/amountId"
         app:layout_constraintEnd_toStartOf="@+id/amountId"
