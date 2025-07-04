@@ -1,4 +1,4 @@
-# Loan-Calculator-Android-App
+# SmartLoanCalculator-App
 
 <h2>Overview</h2>
 <p>Loan Calculator is a simple and intuitive Android application built using Java. The app allows users to calculate monthly loan payments, total payments, and interest based on loan amount, interest rate, and loan term. It's designed for users who need to quickly assess the financial implications of various loan scenarios, making it an essential tool for both personal and professional use.</p>
